@@ -1,0 +1,16 @@
+Moonwell’s feature set is designed to empower users with simplicity, security, and flexibility:Intuitive User Experience: A streamlined interface makes lending, borrowing, and spending accessible to all users, regardless of experience level.
+
+Non-Custodial Architecture: Users retain full control over their assets, with no reliance on centralized intermediaries.
+
+Morpho Vaults: Dynamic allocation across lending markets maximizes returns while managing risk, with immutable logic for transparency.
+
+Moonwell Card: Enables real-world crypto spending with VISA, Apple Pay, and Google Pay, backed by robust security and compliance.
+
+Multilingual Support: An integrated language dropdown ensures global accessibility, supported by an international community of moderators.
+
+Transparent and Onchain: All operations are visible onchain, with governance proposals ensuring community-driven updates.
+
+Moonwell SDK: A TypeScript library provides APIs for interacting with Moonwell’s contracts, retrieving market data, and tracking user positions across multiple networks.
+
+Robust Security: Regular audits, immutable contracts, and compliance with international regulations ensure user safety.
+
